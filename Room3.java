@@ -8,7 +8,7 @@ import java.util.Scanner;
 /**
  * This program displays a room with a suspect in it. The room has two buttons
  * search and interrogate, each having different functionalities. The search button
- * leads to room3_game
+ * leads to room3_game and user can play game
  * @author Mehreen Shaikh
  */
 
