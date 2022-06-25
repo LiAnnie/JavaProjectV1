@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 /**
  * This class is the finale room. Here, the user needs to make a choice who the culprit is
- * @author mehre
+ * @author mehreen shaikh
  *
  */
 
