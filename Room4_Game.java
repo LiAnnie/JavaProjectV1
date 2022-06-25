@@ -7,7 +7,7 @@ import javax.swing.*;
 
 /**
  * This class displays the room4_game. In this class you can search the suspect's laptop
- * @author mehre
+ * @author mehreen shaikh
  *
  */
 public class Room4_Game{
