@@ -607,7 +607,7 @@ class whatJob {
 			}
 		});
 
-		// creating second button
+		// creating second button for the user to choose from
 		JButton op2 = new JButton("Did you steal the painting?");
 		op2.setBounds(100, 440, 250, 50);
 		bg.add(op2);
