@@ -77,7 +77,7 @@ public class Room3_Game{
 
 /**
  * This class is displayed of the user does not guess it correctly
- * @author Mehree
+ * @author Mehreen shaikh
  *
  */
 class TryAgain{
